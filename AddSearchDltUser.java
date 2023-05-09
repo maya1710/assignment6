@@ -10,7 +10,7 @@ public class AddSearchDltUser {
 	    public static void main(String[] args) throws InterruptedException {  
 	        
 	     
-	        System.setProperty("webdriver.chrome.driver","path/to/chromedriver.exe"); 
+	       
 	        
 	       
 	        WebDriver driver=new ChromeDriver();  
